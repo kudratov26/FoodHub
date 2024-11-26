@@ -91,13 +91,3 @@ Here's how you can get started with the app:
 ## Design Credits : 
 
 [FoodHub](https://www.figma.com/community/file/1016293188579696778) Figma Community Design
-
-
-## 🤓 Author(s)
-
-**Abdullah Sheikh**
-[![Twitter Follow](https://img.shields.io/twitter/follow/Abdullah_shk_.svg?style=social)](https://twitter.com/Abdullah_shk_)
-
-## 🔖 LICENCE
-
-[MIT](https://github.com/Abdullah-Sheikh/WeatherApp_Android/blob/master/licence)
